@@ -117,8 +117,8 @@ typedef enum {
   ppSolar = 12,
   atmNu = 13,
   fullGamma = 14,
-  NoneType =15
-
+  NoneType =15,
+  betaGR = 16,
 } INTERACTION_TYPE;
 
 struct YieldResult {
